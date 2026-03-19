@@ -4,8 +4,8 @@ public class Moto extends Vehiculo{
     
     public Moto(String marca, String modelo, int cilindrada){
         super(marca, modelo);
-        this.marca=marca; //llama al objeto de la super clase
-        this.modelo=modelo; //llama al objeto de la super clase
+        this.marca=marca; //llama al atributode la super clase
+        this.modelo=modelo; //llama al atributo de la super clase
         this.cilindrada=cilindrada; //llama al objeto de esta clase
     }
 
