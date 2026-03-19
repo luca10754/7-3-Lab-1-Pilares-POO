@@ -6,7 +6,7 @@ public class Moto extends Vehiculo{
         super(marca, modelo);
         this.marca=marca; //llama al atributode la super clase
         this.modelo=modelo; //llama al atributo de la super clase
-        this.cilindrada=cilindrada; //llama al objeto de esta clase
+        this.cilindrada=cilindrada; //llama al atributo de esta clase
     }
 
     @Override
